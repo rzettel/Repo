@@ -1,0 +1,9 @@
+Origin: SiriAndotherthings
+Label: rzettel.github.io/repo/
+Suite: stable
+Version: 1.0
+Codename: galacticrepo
+Architectures: iphoneos-arm
+Components: main
+Icon: file:///media/DATA/BASE/repo/G1.png
+Description: SiriAndotherthings
